@@ -14,4 +14,7 @@ https://www.youtube.com/watch?v=3jto8z9DNc8
 ## 2025_09_06_早上
 https://www.youtube.com/watch?v=zk-r0DKkQgg
 
+## vibe coding
+https://github.com/roberthsu2003/vibe_coding
+
 
