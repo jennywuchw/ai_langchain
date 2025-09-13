@@ -18,3 +18,6 @@ https://www.youtube.com/watch?v=zk-r0DKkQgg
 https://github.com/roberthsu2003/vibe_coding
 
 
+## 2025_09_13_早上
+https://www.youtube.com/watch?v=nwSX9omC7s0
+
