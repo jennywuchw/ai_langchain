@@ -21,3 +21,5 @@ https://github.com/roberthsu2003/vibe_coding
 ## 2025_09_13_早上
 https://www.youtube.com/watch?v=nwSX9omC7s0
 
+## 2025_09_13_下午
+https://www.youtube.com/watch?v=mqMXN8hksiE
