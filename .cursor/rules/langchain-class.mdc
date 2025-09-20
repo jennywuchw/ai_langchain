@@ -1,0 +1,5 @@
+---
+description: langchang-class
+globs: ./lesson4/**
+alwaysApply: false
+---
