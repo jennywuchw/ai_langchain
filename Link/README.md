@@ -26,3 +26,18 @@ https://www.youtube.com/watch?v=mqMXN8hksiE
 
 ## 2025_09_20_早上
 https://www.youtube.com/watch?v=L1AJ_bfJwHc
+
+## 2025_09_20_下午
+https://www.youtube.com/watch?v=b6-aEzhmZH0
+
+## git 設定
+### git config --global user.name "jennywuchw"
+
+### git config --global user.email "jennywuchw@gmail.com"
+
+git config --global pull.rebase false
+
+git config --global init.defaultBranch main
+
+
+
