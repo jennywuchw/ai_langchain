@@ -23,3 +23,6 @@ https://www.youtube.com/watch?v=nwSX9omC7s0
 
 ## 2025_09_13_下午
 https://www.youtube.com/watch?v=mqMXN8hksiE
+
+## 2025_09_20_早上
+https://www.youtube.com/watch?v=L1AJ_bfJwHc
