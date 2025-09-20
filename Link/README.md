@@ -31,9 +31,9 @@ https://www.youtube.com/watch?v=L1AJ_bfJwHc
 https://www.youtube.com/watch?v=b6-aEzhmZH0
 
 ## git 設定
-### git config --global user.name "jennywuchw"
+git config --global user.name "jennywuchw"
 
-### git config --global user.email "jennywuchw@gmail.com"
+git config --global user.email "jennywuchw@gmail.com"
 
 git config --global pull.rebase false
 
