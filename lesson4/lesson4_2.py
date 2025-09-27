@@ -23,7 +23,7 @@ def answer(prompt: str) -> str:
 # 最小的 Gradio 介面：一個輸入框 + 一個文字輸出
 iface = gr.Interface(
     fn=answer,
-    inputs=gr.Textbox(lines=3, placeholder="在此輸入問題，按送出..."),
+    inputs=gr.Textbox(lines=3, placeholder="在此輸入問題，按送出...", elem_id="custom_input_box"),
     outputs="text",
     title="Ollama 簡易 Gradio 範例",
     description="示範如何把原先的 Ollama 呼叫整合到 Gradio。可用 OLLAMA_URL/OLLAMA_MODEL 環境變數覆蓋預設。",
