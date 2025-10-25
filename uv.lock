@@ -9,6 +9,13 @@ resolution-markers = [
     "python_full_version < '3.11'",
 ]
 
+[manifest]
+members = [
+    "ai-langchain",
+    "my-project",
+    "venv",
+]
+
 [[package]]
 name = "ai-langchain"
 version = "0.1.0"
@@ -1764,6 +1771,11 @@ wheels = [
 ]
 
 [[package]]
+name = "my-project"
+version = "0.1.0"
+source = { virtual = "my-project" }
+
+[[package]]
 name = "nbclient"
 version = "0.10.2"
 source = { registry = "https://pypi.org/simple" }
@@ -3513,6 +3525,11 @@ sdist = { url = "https://files.pythonhosted.org/packages/ef/5e/f0cd46063a02fd851
 wheels = [
     { url = "https://files.pythonhosted.org/packages/96/06/5cc0542b47c0338c1cb676b348e24a1c29acabc81000bced518231dded6f/uvicorn-0.36.0-py3-none-any.whl", hash = "sha256:6bb4ba67f16024883af8adf13aba3a9919e415358604ce46780d3f9bdc36d731", size = 67675, upload-time = "2025-09-20T01:07:12.984Z" },
 ]
+
+[[package]]
+name = "venv"
+version = "0.1.0"
+source = { virtual = "venv" }
 
 [[package]]
 name = "wcwidth"
